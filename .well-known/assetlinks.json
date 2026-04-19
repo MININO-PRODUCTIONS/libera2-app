@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.minino_productions.twa",
+        "sha256_cert_fingerprints": ["A8:D0:B3:31:70:6A:FA:39:D8:4A:DB:3D:46:16:30:D8:9B:73:7C:59:DC:36:17:43:7D:37:44:94:47:D4:E8:BC"]
+      }
+    }]
