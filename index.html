@@ -5594,6 +5594,12 @@ body.skin-cosmos #cosmos-stars{display:block}
 .mr-stat-val.gold{color:var(--gold)}
 
 </style>
+  <link rel="manifest" href="manifest.json">
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+  }
+</script>
 </head>
 <body>
 
